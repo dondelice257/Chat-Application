@@ -4,7 +4,7 @@
   const sendButton = document.querySelector('button');
   const typingMessage = document.querySelector('#chat-typing');
   
-  const possibleReplies =[
+  const possibleReplies = [
     "I'm sorry, I don't understand",
     'Can you repeat that?',
     'Sure thing!',
